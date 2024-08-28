@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "A project to learn npm and package.json basics with FreeCodeCamp.",
+	"author": "rojeh",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
